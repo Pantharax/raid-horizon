@@ -1,0 +1,23 @@
+.btn-rocher {
+    background: #E08636;
+    color: #fff;
+    border: none
+}
+
+.btn-sncf {
+    background: linear-gradient(to right, #822572, #D3342E);
+    color: #fff;
+    border: none
+}
+
+.btn-lvmh {
+    background: linear-gradient(to right, #453630, #9B7E4B);
+    color: #fff;
+    border: none
+}
+
+.btn-pernod-ricard {
+    background: linear-gradient(to right, #79ACD2, #002957);
+    color: #fff;
+    border: none
+}
